@@ -1,2 +1,2 @@
 # riyanfr.github.io
-My Portofolio 
+Snake Game
